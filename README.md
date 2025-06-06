@@ -20,17 +20,18 @@
 ```bash
 git clone https://github.com/your_username/your_project.git
 cd your_project
+```
 
 ### 2. 安装依赖
 建议使用 Python 3.7 及以上版本。
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ### 3. 启动应用
 
-```
+```bash
 streamlit run app.py
 ```
 
