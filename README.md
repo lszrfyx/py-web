@@ -20,3 +20,21 @@
 ```bash
 git clone https://github.com/your_username/your_project.git
 cd your_project
+
+### 2. 安装依赖
+建议使用 Python 3.7 及以上版本。
+
+```
+pip install -r requirements.txt
+```
+
+### 3. 启动应用
+
+```
+streamlit run app.py
+```
+
+运行后会自动打开浏览器，访问本地的 Web 应用界面。
+
+
+
